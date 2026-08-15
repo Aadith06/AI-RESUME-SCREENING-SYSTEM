@@ -1,0 +1,13 @@
+
+pandas
+numpy
+pdfplumber
+PyMuPDF
+python-docx
+spacy
+nltk
+scikit-learn
+sentence-transformers
+streamlit
+plotly
+matplotlib
